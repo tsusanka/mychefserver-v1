@@ -8,7 +8,7 @@ Vagrant & Chef demonstration
 
 #### Clone
 
-- git clone `git@github.com:tsusanka/mychefserver-v1.git`
+- `git clone git@github.com:tsusanka/mychefserver-v1.git`
 
 #### Run
 
