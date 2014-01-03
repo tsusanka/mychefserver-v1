@@ -3,8 +3,8 @@ Vagrant & Chef demonstration
 
 #### Install
 
-- download Virtualbox https://www.virtualbox.org/wiki/Downloads
-- download Vagrant http://www.vagrantup.com/downloads.html
+- download and install Virtualbox https://www.virtualbox.org/wiki/Downloads
+- download and install Vagrant http://www.vagrantup.com/downloads.html
 
 #### Clone
 
