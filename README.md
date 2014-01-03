@@ -8,11 +8,12 @@ Vagrant & Chef demonstration
 
 #### Clone
 
-- `git clone git@github.com:tsusanka/mychefserver-v1.git`
+- clone this repository: `git clone git@github.com:tsusanka/mychefserver-v1.git`
 
 #### Run
 
 - inside the directory run `vagrant up`
+- it will take some time now (few minutes) for the box to be downloaded and configured
 - go to `localhost:50080` in your browser and you should see "It works" message, hurray!
 
 -------------
