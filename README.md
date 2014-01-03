@@ -13,11 +13,11 @@ Vagrant & Chef demonstration
 #### Run
 
 - inside the directory run `vagrant up`
-- go to `localhost:50080` and you should see "It works" message, hurray!
+- go to `localhost:50080` in your browser and you should see "It works" message, hurray!
 
 -------------
 
 #### Cleanup
 
-- `vagrant destroy` for destroying the VM
-- `vagrant box remove baseubuntu13.04-32bit` for deleting the downloaded box
+- run `vagrant destroy` for destroying the VM
+- run `vagrant box remove baseubuntu13.04-32bit` for deleting the downloaded box
